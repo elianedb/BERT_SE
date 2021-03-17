@@ -8,3 +8,10 @@ Therefore, the corp_SE is composed of 456.500 texts, in this paper called senten
 
 It results and details of the evaluation are in the paper. 
 
+
+References:
+
+[1] Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805 (2018).
+
+[2] M. Choetkiertikul, HK Dam, T. Tran, TTM Pham, A. Ghose e T. Menzies, "A deep learning model for estimating story points.", IEEE Trans. Softw. Eng. Vol. PP, não. 99, p. 1, 2018.
+
