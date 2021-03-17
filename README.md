@@ -12,5 +12,7 @@ The BERT_SE is available in this repository for use in software engineering task
 References:
 
 [1] M. Choetkiertikul, HK Dam, T. Tran, TTM Pham, A. Ghose e T. Menzies, "A deep learning model for estimating story points.", IEEE Trans. Softw. Eng. Vol. PP, não. 99, p. 1, 2018.
+
 [2] F. Dalpiaz, A. Ferrari, X. Franch, and C. Palomares. "Natural language processing for requirements engineering: The best is yet to come." IEEE software 35, no. 5 (2018): 115-119.
+
 [3] J. Devlin, M. Chang, K. Lee, and K. Toutanova. "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805 (2018).
